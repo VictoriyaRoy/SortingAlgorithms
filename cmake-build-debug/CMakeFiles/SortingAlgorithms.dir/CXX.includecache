@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/victoriya/CLionProjects/Algorithms/SortingAlgorithms/main.cpp
+iostream
+-
+math.h
+-
+stdlib.h
+-
+time.h
+-
+iomanip
+-
+sorting.h
+/home/victoriya/CLionProjects/Algorithms/SortingAlgorithms/sorting.h
+
+/home/victoriya/CLionProjects/Algorithms/SortingAlgorithms/sorting.cpp
+sorting.h
+/home/victoriya/CLionProjects/Algorithms/SortingAlgorithms/sorting.h
+
+/home/victoriya/CLionProjects/Algorithms/SortingAlgorithms/sorting.h
+
