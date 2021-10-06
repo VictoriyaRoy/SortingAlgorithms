@@ -55,6 +55,7 @@ void print_results(int power, double time[4], long comp[4]) {
     for (int i = 0; i < 4; i++){
         cout << fixed << time[i] << " ";
     }
+    cout << "| ";
     for (int i = 0; i < 4; i++){
         cout << comp[i] << " ";
     }
